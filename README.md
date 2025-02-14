@@ -4,6 +4,7 @@
   <li><a href="#game-controls">Game Controls 🎮</a></li>
   <li><a href="#game-license">Game License 📄</a></li>
   <li><a href="#known-game-bugs">Known Game Bugs 🕷️</a></li>
+  <li><a href="#game-content">Game Content ✨</a></li>
 </ul>
 
 <br>
@@ -44,5 +45,15 @@ The license says not to redistribute the game, reverse engineer it, and some oth
 * After losing all of your lives, the game does not have a game over screen. You will have to restart the application.
 * Collisions with floating platforms and attacking with the sword act weird.
 * Full screening does not persist when you enter a different area.
+<br>
+<br>
+
+<a name="game-content"></a>
+<h2>Game Content ✨</h2>
+<br>
+
+![Screenshot 1](./Media/Screenshot\ 1\  "Screenshot 1")
+![Screenshot 1](./GitAssets/thumbNailGame.png?raw=true "Screenshot 2")
+![Screenshot 1](./GitAssets/thumbNailGame.png?raw=true "Screenshot 3")
 <br>
 <br>
