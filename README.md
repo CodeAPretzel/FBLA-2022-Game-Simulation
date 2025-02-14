@@ -45,6 +45,8 @@ The license says not to redistribute the game, reverse engineer it, and some oth
 * After losing all of your lives, the game does not have a game over screen. You will have to restart the application.
 * Collisions with floating platforms and attacking with the sword act weird.
 * Full screening does not persist when you enter a different area.
+* Lack of configurable settings.
+* One of the final boss's attack is **pretty loud.**
 <br>
 <br>
 
