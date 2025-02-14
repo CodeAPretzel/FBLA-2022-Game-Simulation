@@ -52,8 +52,8 @@ The license says not to redistribute the game, reverse engineer it, and some oth
 <h2>Game Content ✨</h2>
 <br>
 
-![Screenshot 1](./Media/Screenshot\ 1\  "Screenshot 1")
-![Screenshot 1](./GitAssets/thumbNailGame.png?raw=true "Screenshot 2")
-![Screenshot 1](./GitAssets/thumbNailGame.png?raw=true "Screenshot 3")
+<img src="./Media/Screenshot1.png" alt="Screenshot 1" style="width:50%; height:auto;">
+<img src="./Media/Screenshot2.png" alt="Screenshot 2" style="width:50%; height:auto;">
+<img src="./Media/Screenshot3.png" alt="Screenshot 3" style="width:50%; height:auto;">
 <br>
 <br>
