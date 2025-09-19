@@ -15,8 +15,7 @@
 
 I made this game a long time ago in GameMaker Studio (GMS) for an FBLA competitive event and just recently found the executable for it.
 
-Update (9/18/2025): After a short evening of looking around my computer, I was able to find the source files of the game that I used in GMS! They are in the "Knight's Quest.zip" file.
-
+*Update (9/18/2025):* After a short evening of looking around my computer, I was able to find the source files of the game that I used in GMS! They are in the "Knight's Quest.zip" file.
 <br>
 <br>
 
